@@ -1,1 +1,9 @@
-
+.App-logo {
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  margin-top: 30px;
+}
+.App-footer {
+  text-align: center;
+}
