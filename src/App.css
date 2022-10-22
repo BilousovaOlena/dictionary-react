@@ -1,3 +1,7 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-logo {
   margin: 0 auto;
   display: block;
@@ -6,6 +10,7 @@
 }
 .App-footer {
   text-align: center;
+  margin: 30px;
 }
 body {
   background: #f9f8fe;
